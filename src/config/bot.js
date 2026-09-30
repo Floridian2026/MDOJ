@@ -80,7 +80,7 @@ export const botConfig = {
     deleteDeniedAfter: 7,
 
     // Auto-delete approved applications after this many days.
-    deleteApprovedAfter: 30,
+    deleteApprovedAfter: 90,
 
     // Role IDs allowed to manage applications.
     managerRoles: [], // Will be populated from environment or database
